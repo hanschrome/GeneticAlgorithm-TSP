@@ -1,6 +1,7 @@
 #canvas {
     border-radius: 5px;
     margin-top: 20px;
+    background-size: 100% 100%;
 }
 
 #title {
